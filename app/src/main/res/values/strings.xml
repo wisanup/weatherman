@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherMan</string>
+    <string name="observed_at">Observed at</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="wind_speed_unit">km/h</string>
+    <string name="pressure">Barom:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="precipitation">Prec.</string>
+    <string name="precipitation_unit">mm</string>
+    <string name="temperature_unit">°</string>
+</resources>
